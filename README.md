@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my-developer-portfolio<br><br>👨‍💻 All of my projects are available at https://amir-mirfallahi.is-a.dev/<br><br>📝 I regularly write articles on https://amir-mirfallahi.is-a.dev/blog<br><br>💬 Ask me about python, django; php, laravel; javascript, nextjs; javascript, reactjs; javascript, vuejs<br><br>📫 How to reach me mirfallahi2009@gmail.com<br><br>📄 Know about my experiences https://amir-mirfallahi.is-a.dev/<br><br>⚡ Fun fact I'm very curious
+🔭 I’m currently working on my-developer-portfolio<br><br>👨‍💻 All of my projects are available at https://amir-mirfallahi.is-a.dev/<br><br>📝 I regularly write articles on https://amir-mirfallahi.ir/blog<br><br>💬 Ask me about python, django; php, laravel; javascript, nextjs; javascript, reactjs; javascript, vuejs<br><br>📫 How to reach me mirfallahi2009@gmail.com<br><br>📄 Know about my experiences https://amir-mirfallahi.ir/<br><br>⚡ Fun fact I'm very curious
 
 
 ## 🌐 Socials:
