@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently reading about Design Patterns & Algorithms<br><br>👨‍💻 All of my projects are available at https://amirmirfallahi.ir/<br><br>📝 I regularly write articles on https://amirmirfallahi.ir/blog<br><br>💬 Ask me about python, django; php, laravel; javascript, nextjs; javascript, reactjs; javascript, vuejs<br><br>📫 How to reach me mirfallahi2009@gmail.com<br><br>📄 Know about my experiences https://amirmirfallahi.ir/<br><br>⚡ Fun fact I'm very curious
+🔭 I’m currently reading about Design Patterns & Algorithms<br><br>👨‍💻 All of my projects are available at https://amirmirfallahi.ir/<br><br>📝 I regularly write articles on https://blog.amirmirfallahi.ir/<br><br>💬 Ask me about python, django; php, laravel; javascript, nextjs; javascript, reactjs; javascript, vuejs<br><br>📫 How to reach me mirfallahi2009@gmail.com<br><br>📄 Know about my experiences https://amirmirfallahi.ir/<br><br>⚡ Fun fact I'm very curious
 
 
 ## 🌐 Socials:
